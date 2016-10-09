@@ -1,0 +1,12 @@
+{
+	"Windows 8 Pro  Build 9200 X86":"Win8-Pro-x86",
+	"Windows 8 Pro  Build 9200 x64":"Win8-Pro-x64",
+	"Windows XP Professional Service Pack 3 X86":"WinXP-Pro-SP3-x86",
+	"Windows(R) XP Professional x64 Edition Service Pack 2, x64":"WinXP-Pro-SP1-x64",
+	"Windows 7 Home Basic   Build 7600 X86":"Win7-Pro-SP1-x86",
+	"Windows 7 Professional  Service Pack 1 x64":"Win7-Pro-SP1-x64",
+	"Windows Server 2008 R2 Enterprise Service Pack 1 x64":"Win2K8-R2-Ent-SP1-x64",
+	"Windows(R) Server 2003, Enterprise Edition Service Pack 2 X86":"Win2K3-Ent-SP2-x86",
+	"Windows(R) Server 2003 Enterprise x64 Edition Service Pack 2 x64":"Win2K3-Ent-SP2-x64",
+	"Windows 8.1 Pro  Build 9600 x64":"Windows8.1-Pro-x64"
+}

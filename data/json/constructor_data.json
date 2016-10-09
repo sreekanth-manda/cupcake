@@ -1,0 +1,12 @@
+{
+"WinXP-Pro-x86-SP3":{
+			"Tools.GetSusp.TEST_CASES.REGRESSION.tc_hotlocations.HotLocations":"ON",
+			"Tools.GetSusp.TEST_CASES.REGRESSION.tc_newverchk.NewVersionCheck":"OFF",
+			"Tools.GetSusp.TEST_CASES.REGRESSION.tc_applaunch.AppLaunch":"ON"
+			},
+"Win7-Ult-x86-SP1":{
+			"Tools.GetSusp.TEST_CASES.REGRESSION.tc_hotlocations.HotLocations":"ON",
+			"Tools.GetSusp.TEST_CASES.REGRESSION.tc_newverchk.NewVersionCheck":"OFF",
+			"Tools.GetSusp.TEST_CASES.REGRESSION.tc_applaunch.AppLaunch":"ON"
+			}
+}

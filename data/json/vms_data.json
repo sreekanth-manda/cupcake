@@ -1,0 +1,123 @@
+{
+	"WinXP-Pro-x86-SP3":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] EN-WinXPProx86/EN-WinXPProx86.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Python"
+		},
+
+	"Win7-Ult-x86-SP1":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] EN-Win7Prox86/EN-Win7Prox86.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Python"
+		},
+
+	"Win8-Pro-x86":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] Win8-Pro-x86/Win8-Pro-x86.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		},
+
+	"W2K3-R2-ENT-x86":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] W2K3-R2-ENT-x86/W2K3-R2-ENT-x86.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		},
+
+	"Win7-Ult-x64-SP1":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] EN-Win7Prox86/EN-Win7Prox86.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		},
+
+	"Win2K8-R2-ENT-x64":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] Win2K8-R2-ENT-x64/Win2K8-R2-ENT-x64.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		},
+
+	"WinXP-Pro-x64-SP2":{
+				"svr_type":"esx",
+				"svr_url" :"https://172.16.234.250/sdk",
+				"svr_user":"root",
+				"svr_pswd":"Welcome2mcafee",
+				"vmx_path":"[ha-datacenter/datastore1] WinXP-Pro-x86-SP2_1/WinXP-Pro-x86-SP2.vmx",
+				"vm_usr":"Administrator",
+				"vm_pwd":"Welcome2mcafee",
+				"base_snap":"Base"
+			},
+
+	"Win7-Ult-x64-SP1":{
+				"svr_type":"esx",
+				"svr_url" :"https://172.16.234.250/sdk ",
+				"svr_user":"root",
+				"svr_pswd":"Welcome2mcafee",
+				"vmx_path":"[ha-datacenter/datastore1] Win7-Ult-x64-SP1/Win7-Ult-x64-SP1.vmx",
+				"vm_usr":"Administrator",
+				"vm_pwd":"Welcome2mcafee",
+				"base_snap":"Base"
+			},
+
+	"Win8-Pro-x64":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk ",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] Win8-Pro-x64/Win8-Pro-x64.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		},
+
+
+	"W2K3-R2-ENT-x64":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk ",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] W2K3-R2-ENT-x64/W2K3-R2-ENT-x64.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		},
+
+	"Win2K8-R2-ENT-x64":{
+			"svr_type":"esx",
+			"svr_url" :"https://172.16.234.250/sdk ",
+			"svr_user":"root",
+			"svr_pswd":"Welcome2mcafee",
+			"vmx_path":"[ha-datacenter/datastore1] Win2K8-R2-ENT-x64/Win2K8-R2-ENT-x64.vmx",
+			"vm_usr":"Administrator",
+			"vm_pwd":"Welcome2mcafee",
+			"base_snap":"Base"
+		}
+}

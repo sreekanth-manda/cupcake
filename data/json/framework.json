@@ -1,0 +1,7 @@
+{
+	"framework_path":"D:\Tools_Automation",
+	"framework_vm_path":"C:\Tools_Automation",
+	"constructor_json_file":"D:\Tools_Automation\Data\constructor_data.json",
+	"vm_json_file":"D:\Tools_Automation\Data\vms_data.json"
+	"pickle_files_path":"D:\Tools_Automation\Data"
+}
